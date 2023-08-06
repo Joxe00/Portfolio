@@ -1,0 +1,65 @@
+
+
+
+body {background-color: rgb(245, 245, 220);
+
+}
+
+.profile-picture {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10%;
+height: auto;
+max-width: 150px;
+
+border-radius: 50%;
+}
+
+
+.profile-name {
+    
+ text-align: center;
+padding: 10px;
+ font-size: 30px;
+}
+
+.Job-Role {
+ text-align: center;
+ padding: auto;
+ font-size: 20px;
+}
+
+.Bio {
+text-align: justify;
+margin-top: 3%;
+margin-left: 10%;
+margin-right: 10%;
+font-size: 15px;
+
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid rgb(85, 9, 9);
+    border-width: 2px;
+    padding: 20px;
+  
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+    border-radius: 40px;
+    color: black;
+    font-size: 18px;
+  }
+
+  .Host {
+    text-align: center;
+    padding: 10px;
+     font-size: 15px;
+
+  }
+
